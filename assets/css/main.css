@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-family:Avenir;
+        src:url(../font/AvenirLT45-Book.ttf);
+        font-display: swap;
+    }
+    @font-face {
+        font-family:Avenir-Roman;
+        src:url(../font/AvenirLT65-Medium.ttf);
+        font-display: swap;
+    }
+    @font-face {
+        font-family:Avenir-Bold;
+        src:url(../font/AvenirLT85-Heavy.ttf);
+        font-display: swap;
+    }
+    @font-face {
+        font-family:BauerBodoniStd-Roman;
+        src:url(../font/BauerBodoniStd-Roman.otf);
+        font-display: swap;
+    }
+    @font-face {
+        font-family:BauerBodoniBT;
+        src:url(../font/BauerBodni%20BT%20Italic.ttf);
+        font-display: swap;
+    }
+}
+
+@layer utilities {
+    .ws-1 {
+        word-spacing: theme('spacing.1')
+    }
+    .ws-2 {
+        word-spacing: theme('spacing.2')
+    }
+    .ws-3 {
+        word-spacing: theme('spacing.3')
+    }
+    .ws-4 {
+        word-spacing: theme('spacing.4')
+    }
+}
