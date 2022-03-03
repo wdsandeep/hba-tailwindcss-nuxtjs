@@ -1,5 +1,5 @@
 <template>
-    <div class="p-7 xl:px-16 2xl:px-22  bg-[#3d3634] md:flex md:justify-between">
+    <div class="p-7 xl:px-16 2xl:px-22 3xl:px-28 bg-[#3d3634] md:flex md:justify-between">
         <div class=" w-5 hidden md:block xl:hidden"></div>
         <div class="newsletter mt-7 md:w-5/12 md:pt-0 relative">
         <div class="bg-secondary w-7 h-[3px] absolute hidden -ml-9 mt-1.5 md:block"></div>
@@ -21,7 +21,7 @@
                     <div class="bg-secondary w-7 h-[3px] absolute hidden -ml-9 mt-1.5 md:block"></div>
 
                     <div class="text-white text-sm my-6 md:my-7 font-bold">FOLLOW US AT</div>
-                    <div class="flex justify-evenly w-10/12 md:w-full 2xl:w-9/12 md:mb-8 xl:mb-16 ">
+                    <div class="flex justify-evenly w-10/12 md:w-full 2xl:w-7/12 md:mb-8 xl:mb-16 ">
                         <a href="#" class=""><img class="h-5" src="images/icons/HBA-Social-Linkedin.svg" alt=""></a>
                         <span class="border-r border-secondary"></span>
                         <a href="#" class=""><img class="h-5" src="images/icons/HBA-Social-Instagram.svg" alt=""></a>

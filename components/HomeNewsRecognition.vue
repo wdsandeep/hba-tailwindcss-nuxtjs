@@ -1,10 +1,10 @@
 <template>
-    <div class="p-7 md:p-10 xl:p-16 2xl:p-22 relative bg-black md:bg-[url('/images/HBA-Home-News-Background-Image.jpg')] bg-cover lg:flex 2xl:py-40 ">
+    <div class="p-7 md:p-10 xl:p-16 2xl:p-22 3xl:p-28 relative bg-black md:bg-[url('/images/HBA-Home-News-Background-Image.jpg')] bg-cover lg:flex 2xl:py-40 ">
         <div class="lg:w-5/12  lg:mt-32">
             <h2 class="text-primary-light my-12 text-2xs sm:text-2xs md:text-xs tracking-wide uppercase  font-extrabold font-avenir-roman">News & Recognition</h2>
             <h3 class="text-secondary text-2xl sm:text-xl md:text-2xl my-3">World-renowned as the </h3>
             <h1 class="text-white text-4xl sm:text-3xl md:text-5xl lg:text-6xl mb-24 md:mb-0 font-bauerbodonistd">Number 1 Hospitality Design Firm</h1>
-            <div class="news_link hidden md:block border-b py-2 px-8 text-xs font-avenir font-semibold mt-10 mb-24 w-fit border-secondary text-white uppercase">View News & Recognition
+            <div class="news_link hidden md:block border-b py-2 px-8 text-xs font-avenir font-semibold mt-10 2xl:mt-20 mb-24 w-fit border-secondary text-white uppercase">View News & Recognition
             </div>
         </div>
         <div class="relative lg:w-7/12  lg:mt-10">
