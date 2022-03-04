@@ -6,7 +6,7 @@
                 <img class="w-[85%] mb-5 md:w-2/3 2xl:w-9/12 opacity-80" src="/images/HBA-Home-Featured-Project-Image-01.jpg" />
                 <div class="ml-7 md:absolute md:top-1/2 md:left-[20%] lg:left-[35%] 2xl:left-[45%]">
                     <h3 class="text-white text-3xl md:text-5xl xl:text-6xl font-bauerbodonistd  my-2 capitalize cursor-pointer">Luxury collection nanning</h3>
-                    <span class="text-secondary uppercase font-avenir-bold tracking-wide sm:text-sm md:text-lg xl:text-2xl cursor-pointer">china / Hotel</span>
+                    <span class="text-secondary uppercase font-avenir-bold tracking-wide sm:text-sm md:text-lg cursor-pointer">china / Hotel</span>
                 </div>
             </div>
         </div>
