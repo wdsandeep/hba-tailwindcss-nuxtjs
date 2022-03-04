@@ -1,13 +1,16 @@
 <template>
-    <div class="p-7 md:p-10 xl:p-16 2xl:p-22 3xl:p-28 relative bg-black md:bg-[url('/images/HBA-Home-News-Background-Image.jpg')] bg-cover lg:flex 2xl:py-40 ">
-        <div class="lg:w-5/12  lg:mt-32">
+    <div class="p-7 md:p-10 xl:p-16 2xl:p-22 3xl:p-28 relative bg-black md:bg-[url('/images/HBA-Home-News-Background-Image.jpg')] bg-cover lg:flex 2xl:py-40 3xl:py-56 ">
+        <div class="lg:w-5/12 2xl:w-6/12  lg:mt-32">
             <h2 class="text-primary-light my-12 text-2xs sm:text-2xs md:text-xs tracking-wide uppercase  font-extrabold font-avenir-roman">News & Recognition</h2>
             <h3 class="text-secondary text-2xl sm:text-xl md:text-2xl my-3">World-renowned as the </h3>
-            <h1 class="text-white text-4xl sm:text-3xl md:text-5xl lg:text-6xl mb-24 md:mb-0 font-bauerbodonistd">Number 1 Hospitality Design Firm</h1>
-            <div class="news_link hidden md:block border-b py-2 px-8 text-xs font-avenir font-semibold mt-10 2xl:mt-20 mb-24 w-fit border-secondary text-white uppercase">View News & Recognition
+            <h1 class="text-white text-4xl sm:text-3xl md:text-5xl xl:w-8/12 mb-24 md:mb-0 font-bauerbodonistd">Number 1 Hospitality Design Firm</h1>
+            <div class="news_link group hidden md:block py-2 px-8 text-xs font-avenir font-semibold mt-10 2xl:mt-20 mb-24 w-fit border-secondary border-b-1.5 text-white uppercase">
+                <a href="#" class="relative group-hover:-top-1">
+                    View News & Recognition
+                </a>
             </div>
         </div>
-        <div class="relative lg:w-7/12  lg:mt-10">
+        <div class="relative lg:w-7/12 2xl:w-6/12  lg:mt-10">
             <div class="desktop_news_slider hidden md:block ">
                 <div class="top_slides relative w-2/3">
                     <div class="top_slide ">
@@ -21,8 +24,8 @@
                             </div>
                         </div>
 
-                        <div class="description absolute top-1/2  left-3/4 lg:left-[95%] 3xl:left-[85%] w-36 lg:w-48 translate -translate-x-1/2 -translate-y-1/2  border-b  py-2 uppercase   font-bold font-avenir text-xs border-secondary text-white leading-normal">
-                            STRIVING FOR A MORE SUSTAINABLE FUTURE IN HOTEL DESIGN, INDUSTRY INSIGHT BY ERICA PRITCHARD
+                        <div class="description group absolute top-1/2  left-3/4 lg:left-[95%] 3xl:left-[85%] w-36 lg:w-48 translate -translate-x-1/2 -translate-y-1/2  border-b  py-2 uppercase   font-bold font-avenir text-xs border-secondary text-white leading-normal">
+                            <a href="#" class=" relative group-hover:-top-1 ">STRIVING FOR A MORE SUSTAINABLE FUTURE IN HOTEL DESIGN, INDUSTRY INSIGHT BY ERICA PRITCHARD</a>
                         </div>
                     </div>
 
@@ -39,16 +42,16 @@
                                 <span class="mt-5 ">2020</span>
                             </div>
                         </div>
-                        <div class="description absolute top-1/2  left-3/4 lg:left-[95%] 3xl:left-[85%] w-36 lg:w-48 translate -translate-x-1/2 -translate-y-1/2  border-b  py-2 uppercase   font-bold font-avenir text-xs border-secondary text-white leading-normal">
-                            The Sound Hotel Belltown
+                        <div class="description group absolute top-1/2  left-3/4 lg:left-[95%] 3xl:left-[85%] w-36 lg:w-48 translate -translate-x-1/2 -translate-y-1/2  border-b  py-2 uppercase   font-bold font-avenir text-xs border-secondary text-white leading-normal">
+                            <a href="#" class=" relative group-hover:-top-1 ">The Sound Hotel Belltown</a>
                         </div>
 
                     </div>
 
                 </div>
                 <div class="icons absolute top-[47%] xl:top-[42%] right-0 lg:-right-8 xl:-right-0 translate -translate-x-1/2 -translate-y-1/2">
-                    <span class="p-3.5 cursor-pointer border-r-2 border-b-2 border-secondary inline-block rotate-[135deg]"></span>
-                    <span class="p-3.5 ml-3 cursor-pointer border-r-2 border-b-2 border-secondary inline-block -rotate-45"></span>
+                    <span class="p-3.5 cursor-pointer border-r-2 border-b-2 border-secondary inline-block rotate-[135deg] hover:border-secondary/40"></span>
+                    <span class="p-3.5 ml-3 cursor-pointer border-r-2 border-b-2 border-secondary inline-block -rotate-45 hover:border-secondary/40"></span>
                 </div>
 
 

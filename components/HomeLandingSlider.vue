@@ -3,12 +3,12 @@
     <div class="relative h-[75vh] md:h-screen xl:h-screen 2xl:h-screen" id="home_landing_slider">
         <div class="home_landing_slider_first absolute inset-0 w-screen h-full  text-white flex items-center justify-center text-5xl transition-all ease-in-out duration-1000  opacity-100 slide">
             <img class="  h-full  object-cover md:w-full ring-0 outline-none" src="/images/HBA-Home-Hero-Image-mock-6.jpg"  alt="ONE&ONLY PORTONOVI, MONTENEGRO"  />
-            <div class="home_slide_title hidden md:block absolute text-sm 3xl:text-base font-bold xl:font-medium bottom-12 3xl:bottom-20 right-0 pr-16 py-1.5 xl:py-1  xl:pr-32 2xl:pr-40 3xl:pr-44 animate-fadeIn "><a href='https://www.hba.com/project/one-only-portonovi'>ONE&ONLY PORTONOVI, MONTENEGRO</a></div>
+            <div class="home_slide_title hidden md:block absolute text-sm 3xl:text-base font-bold xl:font-medium bottom-12 3xl:bottom-20 right-0 pr-16 py-1.5 xl:py-1  xl:pr-32 2xl:pr-40 3xl:pr-44 animate-fadeIn hover:text-secondary cursor-pointer z-10 "><a href='https://www.hba.com/project/one-only-portonovi'>ONE&ONLY PORTONOVI, MONTENEGRO</a></div>
             
         </div>
         <div class="absolute inset-0 w-screen h-full  text-white flex items-center justify-center text-5xl transition-all ease-in-out duration-1000  opacity-0 slide">
             <img class=" h-full object-cover md:w-full" src="/images/HBA-Home-Hero-Image-mock-1.jpg"  alt="PARK HYATT SUZHOU, CHINA" />
-            <div class="home_slide_title hidden md:block absolute text-sm 3xl:text-base font-bold xl:font-medium bottom-12 3xl:bottom-20 right-0 pr-16 py-1.5 xl:py-1  xl:pr-32 2xl:pr-40 3xl:pr-44 animate-fadeIn "><a href='https://www.hba.com/project/park-hyatt-suzhou'>PARK HYATT SUZHOU, CHINA</a></div>
+            <div class="home_slide_title hidden md:block absolute text-sm 3xl:text-base font-bold xl:font-medium bottom-12 3xl:bottom-20 right-0 pr-16 py-1.5 xl:py-1  xl:pr-32 2xl:pr-40 3xl:pr-44 animate-fadeIn hover:text-secondary cursor-pointer z-10 "><a href='https://www.hba.com/project/park-hyatt-suzhou'>PARK HYATT SUZHOU, CHINA</a></div>
             
         </div>
     </div>

@@ -16,29 +16,29 @@
         </div>
         <div class="hidden md:block">
             <ul class="flex text-white flex-wrap font-avenir-roman text-sm xl:text-base space-y-6 xl:space-y-7 mt-5">
-                <li class="w-28 xl:w-36 2xl:w-[136px]  mt-6 xl:mt-7">Atlanta </li>
-                <li class="w-28 xl:w-36 2xl:w-[136px] ">Bali </li>
-                <li class="w-28 xl:w-36 2xl:w-[136px] ">Bangkok </li>
-                <li class="w-28 xl:w-36 2xl:w-[136px] ">Beijing </li>
-                <li class="w-28 xl:w-36 2xl:w-[136px] ">Clark </li>
-                <li class="w-28 xl:w-36 2xl:w-[136px] ">Dubai </li>
-                <li class="w-28 xl:w-36 2xl:w-[136px] ">Guangzhou </li>
-                <li class="w-28 xl:w-36 2xl:w-[136px] ">Hong Kong </li>
-                <li class="w-28 xl:w-36 2xl:w-[136px] ">Istanbul </li>
-                <li class="w-28 xl:w-36 2xl:w-[136px] ">Jakarta </li>
-                <li class="w-28 xl:w-36 2xl:w-[136px] ">London </li>
-                <li class="w-28 xl:w-36 2xl:w-[136px] ">Los Angeles </li>
-                <li class="w-28 xl:w-36 2xl:w-[136px] ">Manila </li>
-                <li class="w-28 xl:w-36 2xl:w-[136px] ">Miami </li>
-                <li class="w-28 xl:w-36 2xl:w-[136px] ">Mumbai </li>
-                <li class="w-28 xl:w-36 2xl:w-[136px] ">New Delhi </li>
-                <li class="w-28 xl:w-36 2xl:w-[136px] ">Riyadh </li>
-                <li class="w-28 xl:w-36 2xl:w-[136px] ">San Francisco </li>
-                <li class="w-28 xl:w-36 2xl:w-[136px] ">Seoul </li>
-                <li class="w-28 xl:w-36 2xl:w-[136px] ">Shanghai </li>
-                <li class="w-28 xl:w-36 2xl:w-[136px] ">Shenzhen </li>
-                <li class="w-28 xl:w-36 2xl:w-[136px] ">Singapore </li>
-                <li class="w-28 xl:w-36 2xl:w-[136px] ">Tokyo </li>
+                <li class="w-28 xl:w-36 2xl:w-[136px]  mt-6 xl:mt-7"><a href="#" class="block">Atlanta </a></li>
+                <li class="w-28 xl:w-36 2xl:w-[136px] "><a href="#" class="block">Bali </a></li>
+                <li class="w-28 xl:w-36 2xl:w-[136px] "><a href="#" class="block">Bangkok </a></li>
+                <li class="w-28 xl:w-36 2xl:w-[136px] "><a href="#" class="block">Beijing </a></li>
+                <li class="w-28 xl:w-36 2xl:w-[136px] "><a href="#" class="block">Clark </a></li>
+                <li class="w-28 xl:w-36 2xl:w-[136px] "><a href="#" class="block">Dubai </a></li>
+                <li class="w-28 xl:w-36 2xl:w-[136px] "><a href="#" class="block">Guangzhou </a></li>
+                <li class="w-28 xl:w-36 2xl:w-[136px] "><a href="#" class="block">Hong Kong </a></li>
+                <li class="w-28 xl:w-36 2xl:w-[136px] "><a href="#" class="block">Istanbul </a></li>
+                <li class="w-28 xl:w-36 2xl:w-[136px] "><a href="#" class="block">Jakarta </a></li>
+                <li class="w-28 xl:w-36 2xl:w-[136px] "><a href="#" class="block">London </a></li>
+                <li class="w-28 xl:w-36 2xl:w-[136px] "><a href="#" class="block">Los Angeles </a></li>
+                <li class="w-28 xl:w-36 2xl:w-[136px] "><a href="#" class="block">Manila </a></li>
+                <li class="w-28 xl:w-36 2xl:w-[136px] "><a href="#" class="block">Miami </a></li>
+                <li class="w-28 xl:w-36 2xl:w-[136px] "><a href="#" class="block">Mumbai </a></li>
+                <li class="w-28 xl:w-36 2xl:w-[136px] "><a href="#" class="block">New Delhi </a></li>
+                <li class="w-28 xl:w-36 2xl:w-[136px] "><a href="#" class="block">Riyadh </a></li>
+                <li class="w-28 xl:w-36 2xl:w-[136px] "><a href="#" class="block">San Francisco </a></li>
+                <li class="w-28 xl:w-36 2xl:w-[136px] "><a href="#" class="block">Seoul </a></li>
+                <li class="w-28 xl:w-36 2xl:w-[136px] "><a href="#" class="block">Shanghai </a></li>
+                <li class="w-28 xl:w-36 2xl:w-[136px] "><a href="#" class="block">Shenzhen </a></li>
+                <li class="w-28 xl:w-36 2xl:w-[136px] "><a href="#" class="block">Singapore </a></li>
+                <li class="w-28 xl:w-36 2xl:w-[136px] "><a href="#" class="block">Tokyo </a></li>
             </ul>
         </div>
     </div>

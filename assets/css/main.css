@@ -43,4 +43,10 @@
     .ws-4 {
         word-spacing: theme('spacing.4')
     }
+    .bg1 {
+        @apply bg-red-500/40
+    }
+    .bg2 {
+        @apply bg-green-500/40
+    }
 }

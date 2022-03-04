@@ -30,6 +30,9 @@ module.exports = {
       spacing: {
         '22': '5.5rem'
       },
+      borderWidth: {
+        '1.5': '1.5px'
+      },
       fontSize: {
         '2xs': '.625rem',
         '4.5xl': '2.625rem'
